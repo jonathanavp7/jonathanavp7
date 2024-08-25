@@ -15,5 +15,5 @@
 
 Here are some of my skills. I'm always open to learning new ones.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,nodejs,git,figma,tailwind,bootstrap,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,nodejs,git,figma,tailwind,bootstrap,sass,jquery,)](https://skillicons.dev)
 
